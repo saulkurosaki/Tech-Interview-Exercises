@@ -1,0 +1,14 @@
+{
+  "name": "test-ejercicios",
+  "version": "1.0.0",
+  "description": "Tests con Jest para ejercicios de logica y algoritmos",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Saul Paredes Fano",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.6.2"
+  }
+}
